@@ -1,0 +1,7 @@
+<metadata>
+  <name>Isaac AI</name>
+  <directory>isaac_ai</directory>
+  <description>Pont entre le jeu et un agent Python</description>
+  <version>0.1</version>
+  <visibility>Private</visibility>
+</metadata>
